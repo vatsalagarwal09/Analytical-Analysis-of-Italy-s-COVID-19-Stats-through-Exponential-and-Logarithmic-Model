@@ -1,1 +1,1 @@
-# Analytical-Analysis-Of-Logarithmic-Exponential-Model-On-Itlay-COVID-19-Numbers
+# Analytical-Analysis-Of-Itlay's-COVID-19-Stats-through-Logarithmic-Exponential-Model
